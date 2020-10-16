@@ -14,8 +14,8 @@ class Main { //Starting off
       System.out.println("(B) 3rd Period");//Option choice for the second class
       
       String response = reader.nextLine();//Takes/accepts/reads user input
-      
-      if (response.equals("B"))//If the user sends in B
+    
+      if (response != null && response.equals("B"))//If the user sends in B
       {
         System.out.println("You are correct!");//Printing correct if they Send B
         correct = true;
