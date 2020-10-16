@@ -4,7 +4,8 @@ class Main { //Starting off
   Scanner reader = new Scanner(System.in);//My scanner
     System.out.println("Welcome to the quiz!");//Introducing and welcoming the user who is taking the quiz
     
-    
+    boolean iscorrect = false;
+    while iscorrect = false;
     System.out.println("What the class period?");//Asking what the class period I'm in is
     System.out.println("(A) 1st Period");//Option choice for the first class
     System.out.println("(B) 3rd Period");//Option choice for the second class
