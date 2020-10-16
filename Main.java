@@ -1,3 +1,8 @@
+//Welcome to my coding project for class! The main purpose of this project was to be a simple quiz where you just answer a little question about what class period of programming I have. Now, ready to take the quiz? Go for it!
+//Ryan Milton
+//Period 3 
+//October 16th 2020 
+
 import java.util.Scanner; //Meant to be for the scanner
 class Main { //Starting off
   public static void main(String[] args) {
