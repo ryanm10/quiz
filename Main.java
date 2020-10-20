@@ -30,7 +30,7 @@ class Main { //Starting off
         System.out.println("Wrong! Sorry!");//Letting them know that B was not the answer to the question, they may retry the quiz
       }
   
-    }
-  }
-}
+    } //End brackets (Don't worry)
+  } //End brackets (Don't worry)
+} //End brackets  (Don't worry)
 //
